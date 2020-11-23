@@ -6,7 +6,7 @@ This is a collection of Self Assessment tools to help you study for certificatio
 
 We hope you find these Certification Exam Self Assessments helpful as you prepare for these certifications.
 
-### Azure
+### Microsoft Exam Self Assessments for Azure
 
 - [Exam AI-900: Microsoft Azure AI Fundamentals](Assessments/Exam-Msft-AI-900-Self-Assessment-TheCloud42.xlsx?raw=1)
 - [Exam AI-100: Designing and Implementing an Azure AI Solution](Assessments/Exam-Msft-AI-100-Self-Assessment-TheCloud42.xlsx?raw=1)
