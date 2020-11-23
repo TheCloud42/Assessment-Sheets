@@ -6,7 +6,7 @@ This is a collection of Self Assessment tools to help you study for certificatio
 
 We hope you find these Certification Exam Self Assessments helpful as you prepare for these certifications.
 
-### Microsoft Exam Self Assessments for PowerPlatform
+### Microsoft Exam Self Assessments for PowerPlatform & Dynamics
 
 - [Exam PL-900: Microsoft Power Platform Fundamentals](Assessments/Exam-Msft-PL-900-Self-Assessment-TheCloud42.xlsx?raw=1)
 - [Exam PL-200: Microsoft Power Platform Functional Consultant](Assessments/Exam-Msft-PL-200-Self-Assessment-TheCloud42.xlsx?raw=1)
@@ -14,6 +14,11 @@ We hope you find these Certification Exam Self Assessments helpful as you prepar
 - [Exam MB-230: Microsoft Dynamics 365 Customer Service](Assessments/Exam-Msft-MB-230-Self-Assessment-TheCloud42.xlsx?raw=1)
 - [Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant](Assessments/Exam-Msft-MB-800-Self-Assessment-TheCloud42.xlsx?raw=1)
 - [Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect](Assessments/Exam-Msft-MB-700-Self-Assessment-TheCloud42.xlsx?raw=1)
+
+### Microsoft Exam Self Assessments for Modern Work
+
+- [Exam MS-100: Microsoft 365 Identity and Services](Assessments/Exam-Msft-MS-100-Self-Assessment-TheCloud42.xlsx?raw=1)
+- [Exam MS-101: Microsoft 365 Mobility and Security](Assessments/Exam-Msft-MS-101-Self-Assessment-TheCloud42.xlsx?raw=1)
 
 ## FAQ
 
@@ -23,7 +28,7 @@ Need help using the self assessment tool? Go check out Chris Pietschmann's blog 
 
 ### Who created these self assessments
 
-This model of how to perform an Exam Self Assessment gew out of a concept that [Dan Patrick](https://twitter.com/deltadan) practices and recommends to use when studying for certification exams. [Rolf McLaughlin](https://www.linkedin.com/in/powershell/) created the PowerPlatform assessment sheets for the Certification Saturday.
+This model of how to perform an Exam Self Assessment gew out of a concept that [Dan Patrick](https://twitter.com/deltadan) practices and recommends to use when studying for certification exams. [Rolf McLaughlin](https://www.linkedin.com/in/powershell/) created the PowerPlatform assessment sheets for the [Certification Saturday](https://events.powercommunity.com/certification-saturday/).
 
 ### How are these self assessments licensed
 
