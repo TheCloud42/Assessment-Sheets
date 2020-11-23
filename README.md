@@ -6,10 +6,14 @@ This is a collection of Self Assessment tools to help you study for certificatio
 
 We hope you find these Certification Exam Self Assessments helpful as you prepare for these certifications.
 
-### Microsoft Exam Self Assessments
+### Microsoft Exam Self Assessments for PowerPlatform
 
-- 
-- [PL-900 Microsoft Power Platform Fundamentals Exam](Assessments/Exam-Msft-PL-900-Self-Assessment-Build5Nines.xlsx?raw=1)
+- [Exam PL-900: Microsoft Power Platform Fundamentals](Assessments/Exam-Msft-PL-900-Self-Assessment-Build5Nines.xlsx?raw=1)
+- [Exam PL-200: Microsoft Power Platform Functional Consultant](Assessments/Exam-Msft-PL-200-Self-Assessment-TheCloud42.xlsx?raw=1)
+- [Exam PL-400: Microsoft Power Platform Developer](Assessments/Exam-Msft-PL-900-Self-Assessment-TheCloud42.xlsx?raw=1)
+- [Exam MB-230: Microsoft Dynamics 365 Customer Service](Assessments/Exam-Msft-MB-230-Self-Assessment-TheCloud42.xlsx?raw=1)
+- [Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant](Assessments/Exam-Msft-MB-800-Self-Assessment-TheCloud42.xlsx?raw=1)
+- [Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect](Assessments/Exam-Msft-MB-700-Self-Assessment-TheCloud42.xlsx?raw=1)
 
 ## FAQ
 
