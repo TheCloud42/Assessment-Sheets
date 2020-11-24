@@ -1,6 +1,6 @@
-# Free Azure Certification Exam Self Assessment Tools from TheCloud42 based on the original ideas by Build5Nines.com
+# Free Microsoft Certification Exam Self Assessment Tools from TheCloud42 based on the original ideas by Build5Nines.com
 
-This is a collection of Self Assessment tools to help you study for certification exams. All self assessments are built as Excel Spreadsheets (.xlsx). This help you be able to easily save the self assessments for reference and editing as you progress through your certification journey.
+This is a collection of Self Assessment tools to help you study for certification exams. All self assessments are built as Excel Spreadsheets (.xlsx). This help you be able to easily save the self assessments for reference and editing as you progress through your certification journey. It started with the idea from [Dan Patrick](https://twitter.com/deltadan) and was published on Github by [Build5Nines.com](https://build5nines.com). They are focusing mainly on Azure certifications. This repository is trying to cover the other Microsoft certification areas as well and everybody is invited to use, share, contribute to this so it may help others to assess their knowledge and prepare for a successful certification. The sheets that you find here are slightly modified to make the Excel formulas behind the calculations a little less complex.
 
 ## Download Certification Exam Self Assessments
 
