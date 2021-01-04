@@ -14,6 +14,7 @@ We hope you find these Certification Exam Self Assessments helpful as you prepar
 ### Microsoft Exam Self Assessments for PowerPlatform & Dynamics
 
 - [Exam PL-900: Microsoft Power Platform Fundamentals](Assessments/Exam-Msft-PL-900-Self-Assessment-TheCloud42.xlsx?raw=1)
+- [Exam PL-100: Microsoft Power Platform App Maker](Assessments/Exam-Msft-PL-100-Self-Assessment-TheCloud42.xlsx?raw=1)
 - [Exam PL-200: Microsoft Power Platform Functional Consultant](Assessments/Exam-Msft-PL-200-Self-Assessment-TheCloud42.xlsx?raw=1)
 - [Exam PL-400: Microsoft Power Platform Developer](Assessments/Exam-Msft-PL-900-Self-Assessment-TheCloud42.xlsx?raw=1)
 - [Exam MB-230: Microsoft Dynamics 365 Customer Service](Assessments/Exam-Msft-MB-230-Self-Assessment-TheCloud42.xlsx?raw=1)
