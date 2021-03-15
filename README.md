@@ -8,6 +8,7 @@ We hope you find these Certification Exam Self Assessments helpful as you prepar
 
 ### Microsoft Exam Self Assessments for Azure
 
+- [Exam Az-104: Microsoft Azure Administrator](Assessments/Exam-Msft-AZ-104-Self-Assessment-TheCloud42.xlsx?raw=1)
 - [Exam Az-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](Assessments/Exam-Msft-AZ-600-Self-Assessment-TheCloud42.xlsx?raw=1)
 - [Exam AI-900: Microsoft Azure AI Fundamentals](Assessments/Exam-Msft-AI-900-Self-Assessment-TheCloud42.xlsx?raw=1)
 - [Exam AI-100: Designing and Implementing an Azure AI Solution](Assessments/Exam-Msft-AI-100-Self-Assessment-TheCloud42.xlsx?raw=1)
